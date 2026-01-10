@@ -1,4 +1,3 @@
-
 ---
 title: "Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs"
 collection: publications

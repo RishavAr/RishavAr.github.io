@@ -46,17 +46,11 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  arxiv            : "https://arxiv.org/user/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7fyFPj0AAAAJ&view_op=list_works&authuser=1&gmla=APjjwuZIFhivYmR4byn6f38TBvwOf2L8rkO-taNlhSlQb9fAtggl5foHym5CSAUTC5O3BG3560OkeuAtaLLty-O2"
   orcid            : "https://orcid.org/0009-0009-7104-9219"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  
+
 
 
   # Repositories and software development

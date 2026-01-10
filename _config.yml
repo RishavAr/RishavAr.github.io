@@ -98,6 +98,7 @@ publication_category:
     title: "Research in Progress"
 
 
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)

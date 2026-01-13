@@ -2,6 +2,7 @@
 title: "ConfluBot – AI Assistant for Confluence"
 collection: portfolio
 date: 2025-05-01
+share: false
 excerpt: "RAG-based AI assistant for semantic search and knowledge retrieval in Confluence."
 github: "https://github.com/RishavAr/Conflu-bot"
 tech: "RAG, FAISS, FastAPI, Docker"

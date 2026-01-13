@@ -4,9 +4,9 @@ collection: publications
 category: under_review
 date: 2026-01-10
 venue: "ACL 2026 (Association for Computational Linguistics)"
-share: false
 paperurl: ""
 codeurl: ""
+share: false
 excerpt: "🟡 Under Review at ACL 2026. Training-free universal UI grounding using experience-based similarity and elastic visual memory."
 ---
 

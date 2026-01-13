@@ -14,7 +14,7 @@ I am an **AI / ML Researcher & Engineer** working at the intersection of
 My work focuses on understanding *how* modern models learn and reason, and
 translating those insights into **end-to-end, executable systems**.
 
-I currently work as a **Research Assistant in Machine Learning and Reinforcement Learning** at George Mason University under Professor K.C.Chang, while continuing independent research and systems development in parallel.
+I currently work as a **Research Assistant in Machine Learning and Reinforcement Learning** at George Mason University under Professor K.C. Chang, while continuing independent research and systems development in parallel.
 
 I operate as an **independent researcher**, capable of taking ideas from
 theory → experiments → systems → communication, while remaining open to

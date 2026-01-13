@@ -51,7 +51,17 @@ author:
   orcid            : "https://orcid.org/0009-0009-7104-9219"
   
 
+ 
 
+footer:
+  links: false
+  powered_by: false
+  last_updated: false
+
+atom_feed:
+  hide                   : true
+
+repository: false
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

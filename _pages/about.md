@@ -52,9 +52,6 @@ The broader goal is to move beyond bandwidth-limited distillation and toward
 
 ---
 
-
----
-
 ## 🔁 Weekly Research & Implementation Releases
 I maintain a **weekly research-to-implementation cadence**:
 Recent and upcoming focus areas include:

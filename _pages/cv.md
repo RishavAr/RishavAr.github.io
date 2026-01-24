@@ -30,7 +30,12 @@ perturbations with 83 ms per-step latency.
 2025 , systematic evaluation of multimodal ED identifying failure modes of generative LLM/VLM approaches and conditions where
 supervised fusion models outperform.
 
+
+
+
 # Independent Research Projects
+
+
 
 
 ## Enough Thinking - Efficient Reasoning via RL-Driven Self-Adaptation 
@@ -71,7 +76,13 @@ API calls.
 Experience
 
 
+
+
+
+
 # George Mason University Jul 2025 - Present
+
+
 
 
 ## Research Assistant --- Machine Learning & Reinforcement Learning
@@ -96,7 +107,11 @@ foundation models for deployment in products.
 
 
 
+
+
 # Wall Street Quants Jul 2024 - Oct 2024
+
+
 
 ## Quantitative Research Intern
 
@@ -121,7 +136,10 @@ calibrations across thousands of simulated scenarios to identify the most stable
 
 
 
+
 # Foxmula May 2022 - Jul 2022
+
+
 
 ## Machine Learning Intern
 
@@ -145,7 +163,12 @@ deployment via AWS and TensorFlow.
 automated, data-driven system.
 
 
+
+
+
 # Technologies
+
+
 
 • Programming Languages: Python, SQL
 
@@ -167,7 +190,11 @@ Protocol (MCP)
 
 
 
+
 # Education
+
+
+
 - **George Mason University** — MS, Data Analytics and Engineering (Aug 2023 – May 2025)
   
 - **Vellore Institute of Technology** — B.Tech, ECE (Jun 2019 – Jul 2023)
@@ -176,6 +203,8 @@ Protocol (MCP)
   
 
 # Achievements
+
+
 
 • Technical Peer Reviewer | Expert Systems with Applications (Elsevier):(Invited to perform rigorous technical peer reviews for
 3+ manuscripts in a top-tier Q1 journal (Impact Factor: 8.5).)

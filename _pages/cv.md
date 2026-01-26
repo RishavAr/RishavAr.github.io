@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="cv-download-links">
-  <a href="/files/CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+  <a href="/files/cv.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
 </div>
 

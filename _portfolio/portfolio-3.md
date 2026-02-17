@@ -8,7 +8,7 @@ github: "https://github.com/RishavAr/FactoryOps-AI-Agent"
 
 ---
 
-### 🔐 Overview
+### 🔐 Overview 
 
 
 FactoryOps is a production-grade manufacturing intelligence platform that combines:

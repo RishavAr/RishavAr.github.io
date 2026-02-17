@@ -1,23 +1,25 @@
 ---
-title: "Superchip Optimization – Manufacturing and Distribution"
+title: "Enough Thinking Efficient Reasoning via GRPO + SEAL + MCP"
 collection: portfolio
-date: 2024-02-15
 share: false
-excerpt: "Operations research optimization for chip manufacturing and regional distribution."
-github: "https://github.com/RishavAr/Superchip-Optimization"
-tech: "Python, Gurobi"
+excerpt: "Teaching Large Reasoning Models when to think — and when not to"
+github: "https://github.com/RishavAr/Enough-Thinking"
+
 ---
 
 ### 🏭 Overview
-Optimization project for a Virginia-based semiconductor manufacturer focusing on production and distribution efficiency.
+Large Reasoning Models (LRMs) frequently over-generate chain-of-thought, even for simple problems, leading to unnecessary latency and cost. In this project, we study reasoning efficiency as a first-class optimization objective.
 
 ### 📊 Contributions
-- Optimized production across **23 sales regions**
-- Recommended strategic investments and manufacturing upgrades  
+
+
+We present a two-stage reinforcement learning framework:
+
+Phase-1 (GRPO): induces structured reasoning behavior.
+Phase-2 (SEAL): internalizes recurring reasoning patterns to reduce token usage without sacrificing correctness.  
 
 ### 📈 Impact
-- Achieved **8.47% projected cost reduction**
-- Supported **10% demand increase** with optimized resource allocation  
+- Phase-2 achieves 35–45% token reduction with only minor accuracy degradation  
 
 ### 🔗 Links
-- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Superchip-Optimization)
+- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Enough-Thinking)

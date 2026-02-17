@@ -1,23 +1,36 @@
 ---
-title: "Performance Analysis of Machine Learning Models on Amazon Review Data"
+title: "Search-Embedding-lab"
 collection: portfolio
-date: 2023-08-01
 share: false
-excerpt: "Comparative study of ML models for sentiment classification on large-scale Amazon reviews."
-github: "https://github.com/RishavAr/Comparing_ML_Models_on_Amazon_Data"
-tech: "Python, SQL, Machine Learning"
+excerpt: "Training Transformer Embeddings for Semantic Search."
+github: "https://github.com/RishavAr/Search-Oriented-Transformer-Embeddings-for-Knowledge-Retrieval"
+
 ---
 
 ### 📦 Overview
-Analyzed sentiment classification performance across multiple ML models using Amazon review data.
+
+ An end-to-end dense retrieval system for semantic search, focused on training embedding models from scratch, evaluating retrieval quality, and iterating on architecture design. The goal is to mirror how modern AI-native search systems are built: crawl → embed → index → retrieve → evaluate.
 
 ### 🧠 Approach
-- Preprocessed **413,841 consumer reviews**
-- Built a **hybrid Random Forest + Naive Bayes model**
+
+Query ──► Query Encoder ─┐
+                         ├─► Similarity (dot / cosine) ─► Ranking
+Docs  ──► Doc Encoder  ──┘
+
+Training:
+(Query, Positive Doc, Hard Negatives)
+→ InfoNCE Contrastive Loss
+
+Inference:
+Query → FAISS ANN → Top-K Documents
 
 ### 📈 Findings
-- Random Forest achieved **87% accuracy**
-- Outperformed Naive Bayes and hybrid variants  
+=== Retrieval metrics ===
+K=  1  Recall@K=0.33   MRR=0.55   nDCG@K=0.66
+K=  5  Recall@K=1.00   MRR=0.55   nDCG@K=0.66
+K= 10  Recall@K=1.00   MRR=0.55   nDCG@K=0.66
+K=100  Recall@K=1.00   MRR=0.55   nDCG@K=0.66
+n_queries_eval: 6  
 
 ### 🔗 Links
-- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Comparing_ML_Models_on_Amazon_Data)
+- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Search-Oriented-Transformer-Embeddings-for-Knowledge-Retrieval)

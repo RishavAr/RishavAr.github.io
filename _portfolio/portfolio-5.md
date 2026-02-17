@@ -1,23 +1,22 @@
 ---
-title: "Malware Detection using Multiple Machine Learning Techniques"
+title: " Elastic-Depth Pretraining (EDP)"
 collection: portfolio
-date: 2024-02-01
+
 share: false
-excerpt: "Comparative analysis of machine learning models for Android malware detection."
-github: "https://github.com/RishavAr/Malware-Detection_using_multiple_ML_techniques"
-tech: "R, Machine Learning"
+excerpt: "Dynamic Depth Allocation via Second-Order Residual Dynamics."
+github: "https://github.com/RishavAr/Elastic-Depth-Pretraining-Dynamic-Depth-Allocation-via-Second-Order-Residual-Dynamics"
+
 ---
 
 ### 🧪 Overview
-Conducted malware detection experiments using the **Sherlock v. Moriarty** Android application dataset.
+Elastic-Depth Pretraining (EDP) is a framework that integrates adaptive depth allocation directly into auto-regressive transformer pretraining to address the inefficiency of uniform computational depth for all tokens.
 
 ### 🔬 Methodology
-- Applied **PCA twice** for dimensionality reduction  
-- Performed scaling and skewness correction  
+
+ EDP dynamically allocates transformer depth per token using a second-order residual signal (acceleration). Easy tokens skip layers, hard tokens use full depth.
 
 ### 📊 Results
-- Compared **6 ML models**
-- **Random Forest** achieved best performance with **98.66% accuracy**
+Result: 42% compute savings with comparable perplexity.
 
 ### 🔗 Links
-- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Malware-Detection_using_multiple_ML_techniques)
+- 💻 **Code:** [GitHub Repository](https://github.com/RishavAr/Elastic-Depth-Pretraining-Dynamic-Depth-Allocation-via-Second-Order-Residual-Dynamics)

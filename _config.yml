@@ -36,10 +36,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RishavAr"
 
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/rishav-aryan"
-
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=7fyFPj0AAAAJ&hl=en&authuser=1"
@@ -80,7 +76,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "rishav-aryan"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

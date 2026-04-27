@@ -8,56 +8,33 @@ redirect_from:
   - /about.html
 ---
 
+I am an **applied machine learning engineer** with experience in
+**predictive analytics, forecasting, and decision optimization**. I enjoy
+building systems that turn complex modeling work into clear, practical outcomes
+for real business and research settings.
 
-I am an **AI / ML Researcher, Engineer, and Data Scientist** working at the
-intersection of **representation learning, attention mechanisms, adaptive
-language models, and production-scale machine learning systems**. My work
-focuses on understanding *how* modern models learn and reason, then translating
-those insights into **end-to-end, executable systems**.
+My work spans **Python, SQL, experimentation frameworks, data pipelines,
+monitoring systems, and modern ML/AI tooling**. I have worked across
+**reinforcement learning, financial modeling, cybersecurity, RAG systems, and
+predictive analytics**, with a focus on shipping end-to-end solutions that
+improve efficiency, resource allocation, and decision quality.
 
-I build scalable machine learning and data systems across **fraud detection,
-NLP, transformer-based models, retrieval-augmented LLM systems, and real-time
-ML inference**. My technical work spans **Python, advanced SQL, Apache Spark,
-large-scale feature engineering, high-throughput ML pipelines, and cloud
-deployment on AWS and GCP**.
+I recently completed my **M.S. in Data Analytics and Engineering at George
+Mason University** and remain especially interested in the space between
+**analytics, applied AI, and scalable decision systems**.
 
-I operate as an **independent researcher and applied ML practitioner**, capable
-of taking ideas from theory → experiments → systems → communication, while
-remaining open to collaboration with researchers and builders who share similar
-rigor and depth.
+## What I'm Working On
 
+- Building reinforcement learning systems for non-stationary financial markets
+- Exploring LLM reasoning efficiency and post-training optimization
+- Designing agentic AI workflows for cybersecurity and enterprise knowledge use
 
----
+## Selected Highlights
 
-## 🧠 Research Direction
-My research interests include:
-- Self-adapting language models  
-- Attention and hypernetwork-based architectures  
-- Representation transfer beyond standard knowledge distillation  
-- Implicit regularization and generalization in deep models  
-
-I am actively developing research contributions aligned with
-**NeurIPS / ICML–style venues**, emphasizing originality, clarity,
-and empirical grounding.
-
----
-
-## 📄 Active Research Work
-**Latent-to-Parameter Transfer (LPT)**  
-I am developing a research framework that studies how **reasoning structure can be transferred from large language models to smaller models** via **neural-state–conditioned hypernetworks**, rather than output-level supervision.
-
-This work explores:
-- Conditioning on internal latent states of a frozen teacher model  
-- Generating low-rank parameter updates (LoRA) dynamically  
-- Online (per-input) and offline (consolidated) transfer modes  
-- Improved efficiency in FLOPs while preserving reasoning accuracy  
-- Near-zero catastrophic forgetting in continual learning settings  
-
-The broader goal is to move beyond bandwidth-limited distillation and toward
-**process-level knowledge transfer**.
-
-
----
-
-## 🧑‍⚖️ Academic Service
-- **Reviewer (3×)**, *Expert Systems with Applications*
+- Improved portfolio robustness in a regime-aware RL system, increasing alpha
+  from approximately `+0.05` to `+0.23`
+- Built LLM-assisted cybersecurity workflows using SecureGPT, AWS Lambda, and
+  NIST-grounded prompting
+- Developed adaptive trading strategies that improved annualized returns from
+  `18%` to `25%`
+- Published work in **NLDB 2025** and **IEEE INDICON 2022**
